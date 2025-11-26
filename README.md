@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nickfury-max
-- 👀 I’m interested in programming with c++ and web development
+- 👀 I’m an upcoming full-stack developer. currently basking around in c++, html, css, and javascript.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0539130660
